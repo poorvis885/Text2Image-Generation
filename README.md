@@ -74,7 +74,10 @@ We welcome contributions! Feel free to submit issues or pull requests to enhance
 
 📜 **License**
 
-This project is licensed under myself.
+This project is licensed under MIT License
+
+Copyright (c) 2025 Poorvi Shrivastava
+
 
 🔗 **Contact**
 🤝 **Contributing Feel free to fork this repository and submit pull requests!** 🚀 
